@@ -1,0 +1,25 @@
+/*custom font*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/*basic reset*/
+* {margin: 0; padding: 0;}
+.jumbotron{
+	
+		height: auto;
+		width: 40%;
+		/* background: white; */
+		opacity: 0.8;
+		position: relative;
+		left: 30%;
+		top:10%;
+		margin-top: auto;
+		text-align: center;
+		
+	}
+	
+	html
+	{
+		/* background-image: surl(screen_shot_2015-03-05_at_3.55.03_pm_110381.jpg); */
+		background-size: cover;
+		
+	}
